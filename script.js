@@ -19,8 +19,8 @@ const CATEGORIES = [
     tag: '16 disciplinas',
     tagline: 'El cuerpo, la voz y el movimiento como lenguaje artístico',
     shortDesc: 'Coreografías, danzas folclóricas, teatro, títeres, cuentacuentos y poesía coral. La expresión escénica en su máxima diversidad.',
-    heroImg: 'https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=1400&q=80',
-    cardImg: 'https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?w=700&q=80',
+    heroImg: 'https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=1400&q=0',
+    cardImg: 'https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?w=700&q=8',
     description: [
       'El área de Artes Escénicas, Dramáticas y del Movimiento reúne 16 disciplinas que celebran el cuerpo, la voz y el espacio como herramientas artísticas. Desde coreografías de baile hasta teatro indígena, este es el corazón performativo del Festival.',
       'Las disciplinas incluyen coreografía de baile, coreografía conceptual, proyecciones folclóricas costarricense e internacional, danzas culturales indígenas, cuentacuentos, narración oral indígena, poesía coral, retahílas, teatro, teatro de muñecos o títeres, teatro indígena y teatro de niños y niñas.',
@@ -35,11 +35,11 @@ const CATEGORIES = [
     info: { Disciplinas: '16', Duración: '5 a 6 min', Modalidad: 'Grupal/Individual', Inscripción: 'Etapa institucional' },
     gallery: [
       'https://images.unsplash.com/photo-1518834107812-67b0b7c58434?w=500&q=75',
-      'https://images.unsplash.com/photo-1545959570-a94084071b5d?w=500&q=75',
+      'https://images.unsplash.com/photo-1545959570-a94084071b5d?w=500&q=5',
       'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&q=75',
-      'https://images.unsplash.com/photo-1571843439991-dd2b23e0009f?w=500&q=75',
-      'https://images.unsplash.com/photo-1547153760-18fc86324498?w=500&q=75',
-      'https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500&q=75'
+      'https://images.unsplash.com/photo-1571843439991-dd2b23e0009f?w=500&=75',
+      'https://images.unsplash.com/photo-1547153760-18fc86324498?w=500&q=7',
+      'https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500&q=5'
     ],
     sidebarImg: 'https://images.unsplash.com/photo-1536581104763-7e03e5e60d66?w=500&q=80',
     sidebarCaption: 'Danza cultural indígena costarricense',
